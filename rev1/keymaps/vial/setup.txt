@@ -1,0 +1,3 @@
+qmk flash -kb splitkb/aurora/lily58/rev1 -km vial -e CONVERT_TO=liatris
+
+qmk flash -kb splitkb/aurora/lily58/rev1 -km vial -e CONVERT_TO=liatris
